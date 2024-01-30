@@ -1,0 +1,44 @@
+[
+    {
+        "projectName":"Trimtutor",
+        "Language":"Javascript",
+        "image":"https://github.com/CodrinCarpovici/trimtutor/blob/main/assets/images/trimtutor.png",
+        "deployedLink":"https://codrincarpovici.github.io/trimtutor/",
+        "githubLink":"https://github.com/CodrinCarpovici/trimtutor"
+    },
+    {
+        "projectName":"Password Generator",
+        "Language":"Javascript",
+        "image":"https://github.com/alexwalland1997/password-generator/raw/main/images/example.png",
+        "deployedLink":"https://alexwalland1997.github.io/password-generator/",
+        "githubLink":"https://github.com/alexwalland1997/password-generator"
+    },
+    {
+        "projectName":"Javascript Quiz",
+        "Language": "Javascript/HTML/CSS",
+        "image":"https://github.com/alexwalland1997/JavascriptQuiz/raw/main/assets/images/frontscreen.png",
+        "deployedLink":"https://alexwalland1997.github.io/JavascriptQuiz/",
+        "githubLink":"https://github.com/alexwalland1997/JavascriptQuiz"
+    },
+    {
+        "projectName":"Daily Planner",
+        "Language":"Javascript",
+        "image":"https://github.com/alexwalland1997/DailyPlanner/blob/main/images/screenshot%20(2).png",
+        "deployedLink":"https://alexwalland1997.github.io/DailyPlanner/",
+        "githubLink":"https://github.com/alexwalland1997/DailyPlanner"
+    },
+    {
+        "projectName":"Bootstrap Portfolio",
+        "Language":"HTML/CSS",
+        "image":"https://github.com/alexwalland1997/AlexanderWallandBootstrap/raw/main/images/screenshot.png",
+        "deployedLink":"https://alexwalland1997.github.io/AlexanderWallandBootstrap/",
+        "githubLink":"https://github.com/alexwalland1997/AlexanderWallandBootstrap"
+    },
+    {
+        "projectName":"Marketing Site Optizimation",
+        "Language":"HTML",
+        "image":"https://github.com/alexwalland1997/MarketingSiteOptimization/raw/main/images/example.png",
+        "deployedLink":"https://alexwalland1997.github.io/MarketingSiteOptimization/",
+        "githubLink":"https://github.com/alexwalland1997/MarketingSiteOptimization"
+    }
+]
