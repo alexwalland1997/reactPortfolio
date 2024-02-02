@@ -13,8 +13,8 @@ import {
 function Header() {
   return (
     <>
-      <img src="./images/logo.png" className="logo"/>
       <nav>
+        <img src="./images/logo.png" className="logo"/>
         <div id="navigation">
         <RiHomeFill className="icon"/>
         <RiProfileFill className="icon"/>
