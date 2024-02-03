@@ -20,7 +20,11 @@ nav {
     left: 0px;
     z-index: 3;
 }
-
+@media  (max-width: 500px) {
+    .logo {
+        display: none;
+    }
+}
 .icon {
   height: 50px;
   padding-top: 10px;
