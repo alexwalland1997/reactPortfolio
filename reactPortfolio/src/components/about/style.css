@@ -1,0 +1,15 @@
+#aboutme {
+    margin-top: 100px;
+    width: 44%;
+    margin-left: 2%;
+}
+
+p {
+    margin-bottom: 50px;
+}
+
+@media  (max-width: 1000px) {
+    #aboutme {
+        width: 95%;
+    }
+}

@@ -1,0 +1,14 @@
+.photo {
+    margin-top: 150px;
+    height: 35%;
+    width: auto;
+    display: block;
+    float: right;
+    border-radius: 5%;
+}
+
+@media  (max-width: 1000px) {
+    .photo{
+      display: none;
+    }
+}
