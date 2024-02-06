@@ -1,5 +1,6 @@
 import React from "react";
 import './style.css';
+import { RiGithubFill } from "@remixicon/react";
 
 export const ProjectGallery = ({ project }) => {
     return (
@@ -13,7 +14,9 @@ export const ProjectGallery = ({ project }) => {
         alt= {item.projectName}
         key={index}
         />
-        <a href={item.deployedLink}><button>Deployed Project</button></a>
+        <h2>{item.projectName}</h2>
+        <a href={item.deployedLink} target="_blank"><button><RiGithubFill/>Deployed Project</button></a>
+        <a href={item.githubLink} target="_blank"><button><RiGithubFill/>Repo Link</button></a>
         </>
        )
        })}

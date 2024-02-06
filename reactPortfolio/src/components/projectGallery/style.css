@@ -9,3 +9,13 @@
     height: 200px;
     background-size: cover;
 }
+
+h2 {
+    font-size: 20px;
+    padding-top: -5px;
+}
+
+.carousel button {
+    margin-bottom: 20px;
+    margin-right: 10px;
+}

@@ -6,8 +6,6 @@ import {
   RiFileListLine,
   RiHomeFill,
   RiContactsFill,
-  RiGithubFill,
-  RiLinkedinBoxFill,
 } from "@remixicon/react";
 
 function Header() {
