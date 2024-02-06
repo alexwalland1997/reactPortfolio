@@ -1,0 +1,39 @@
+#form {
+    width: 45%;
+    margin-top: 100px;
+    text-align: center;
+}
+
+#name,
+#email,
+#subject,
+textarea {
+    width: 80%;
+    background-color: #012c7cc3;
+    border: 0;
+    color: white;
+    margin-top: 5px;
+}
+
+textarea {
+    height: 100px;
+}
+
+.sButton {
+    color: white;
+    background: 0 0;
+    font: 11px;
+    height: 40px;
+    width: 80px;
+    margin-top: 15px;
+    letter-spacing: 3px;
+    text-decoration: none;
+    border: 1px solid white;
+}
+
+@media (max-width:1000px) {
+    #form {
+        width: 100%;;
+    }
+}
+

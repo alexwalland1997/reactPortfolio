@@ -1,8 +1,9 @@
-[
+{
+    "projects": [
     {
         "projectName":"Trimtutor",
         "Language":"Javascript",
-        "image":"https://github.com/CodrinCarpovici/trimtutor/blob/main/assets/images/trimtutor.png",
+        "image":"https://raw.githubusercontent.com/CodrinCarpovici/trimtutor/main/assets/images/trimtutor.png",
         "deployedLink":"https://codrincarpovici.github.io/trimtutor/",
         "githubLink":"https://github.com/CodrinCarpovici/trimtutor"
     },
@@ -23,7 +24,7 @@
     {
         "projectName":"Daily Planner",
         "Language":"Javascript",
-        "image":"https://github.com/alexwalland1997/DailyPlanner/blob/main/images/screenshot%20(2).png",
+        "image":"https://github.com/alexwalland1997/DailyPlanner/blob/main/images/screenshot.png?raw=true",
         "deployedLink":"https://alexwalland1997.github.io/DailyPlanner/",
         "githubLink":"https://github.com/alexwalland1997/DailyPlanner"
     },
@@ -41,4 +42,5 @@
         "deployedLink":"https://alexwalland1997.github.io/MarketingSiteOptimization/",
         "githubLink":"https://github.com/alexwalland1997/MarketingSiteOptimization"
     }
-]
+  ]
+}
