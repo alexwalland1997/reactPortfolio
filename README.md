@@ -17,7 +17,7 @@
     ## Installation
     *Instructions on how to install the project and run it*
   
-  Please visit https://alexwalland1997.github.io/reactPortfolio/to view the site alternatively install repo and do npm install then npm run dev to view in local files.## License
+  Please visit https://alexwalland1997.github.io/reactPortfolio/ to view the site alternatively install repo and do npm install then npm run dev to view in local files.## License
 
    *The project is protected by the following license*
   
