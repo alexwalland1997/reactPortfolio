@@ -1,6 +1,13 @@
 {
     "projects": [
     {
+        "projectName":"Career-keys",
+        "Language":"Javascript- React",
+        "image":"https://github.com/porlowska/career-keys/blob/main/public/screenshots/landing_page.png",
+        "deployedLink":"https://career-keys.netlify.app/",
+        "githubLink":"https://github.com/porlowska/career-keys"
+    },
+    {
         "projectName":"Trimtutor",
         "Language":"Javascript",
         "image":"https://raw.githubusercontent.com/CodrinCarpovici/trimtutor/main/assets/images/trimtutor.png",
@@ -34,13 +41,6 @@
         "image":"https://github.com/alexwalland1997/AlexanderWallandBootstrap/raw/main/images/screenshot.png",
         "deployedLink":"https://alexwalland1997.github.io/AlexanderWallandBootstrap/",
         "githubLink":"https://github.com/alexwalland1997/AlexanderWallandBootstrap"
-    },
-    {
-        "projectName":"Marketing Site Optizimation",
-        "Language":"HTML",
-        "image":"https://github.com/alexwalland1997/MarketingSiteOptimization/raw/main/images/example.png",
-        "deployedLink":"https://alexwalland1997.github.io/MarketingSiteOptimization/",
-        "githubLink":"https://github.com/alexwalland1997/MarketingSiteOptimization"
     }
   ]
 }
