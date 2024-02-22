@@ -3,7 +3,7 @@
     {
         "projectName":"Career-keys",
         "Language":"Javascript- React",
-        "image":"https://github.com/porlowska/career-keys/blob/main/public/screenshots/landing_page.png",
+        "image":"https://raw.githubusercontent.com/porlowska/career-keys/main/public/screenshots/landing_page.png",
         "deployedLink":"https://career-keys.netlify.app/",
         "githubLink":"https://github.com/porlowska/career-keys"
     },
