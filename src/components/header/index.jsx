@@ -14,7 +14,7 @@ function Header() {
       <nav>
           <img src="https://github.com/alexwalland1997/reactPortfolio/blob/main/images/logo.png?raw=true" className="logo" />
         <div id="navigation">
-          <Link to="/reactPortfolio/">
+          <Link to="/">
             <RiHomeFill className="icon" />
           </Link>
           <Link to="/aboutme">
