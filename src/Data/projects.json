@@ -1,6 +1,13 @@
 {
     "projects": [
     {
+        "projectName":"Wordle-clone",
+        "Language": "Javascript/HTML/CSS",
+        "image":"https://media.licdn.com/dms/image/v2/D4D22AQFs7alZYoyISw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1729689903034?e=1732752000&v=beta&t=gtKURSvRHfTKrFckTkevnJXAyCtvz2adYDx-VQrx94s",
+        "deployedLink": "https://alexwalland1997.github.io/wordleclone/",
+        "githubLink": "https://github.com/alexwalland1997/wordleclone"
+    },
+    {
         "projectName":"Career-keys",
         "Language":"Javascript- React",
         "image":"https://raw.githubusercontent.com/porlowska/career-keys/main/public/screenshots/landing_page.png",
